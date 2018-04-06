@@ -1,0 +1,2 @@
+﻿  EventLisinner.cpp
+c:\users\zick\source\repos\eventlisinner\eventlisinner\eventlisinner.cpp(18): error C2065: 'cout': undeclared identifier
